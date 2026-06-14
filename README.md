@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated banner using readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=LLM+Evaluation+Workflows;Hallucination+%7C+Safety+%7C+Alignment+Scoring;Built+on+Azure+AI+Foundry)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=160&lines=LLM+Evaluation+Workflows;Hallucination+%7C+Safety+%7C+Alignment+Scoring;Built+on+Azure+AI+Foundry)](https://git.io/typing-svg)
 
 <br/>
 
