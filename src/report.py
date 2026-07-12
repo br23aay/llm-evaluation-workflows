@@ -206,6 +206,22 @@ def save_html_report(results: list["EvalResult"], path: str) -> None:
     <div class="kpi-label">FAIL</div>
     <div class="kpi-val" style="color:var(--red)">{counts['FAIL']}</div>
   </div>
+    <div class="kpi">
+      <div class="kpi-label">Avg Composite</div>
+      <div class="kpi-val" style="color:var(--cyan)">{avg('composite_score')}</div>
+    </div>
+    <div class="kpi">
+      <div class="kpi-label">Avg Hallucination</div>
+      <div class="kpi-val" style="color:var(--purple)">{avg('hallucination_score')}</div>
+    </div>
+    <div class="kpi">
+      <div class="kpi-label">Avg Safety</div>
+      <div class="kpi-val" style="color:var(--green)">{avg('safety_score')}</div>
+    </div>
+    <div class="kpi">
+      <div class="kpi-label">Avg Alignment</div>
+      <div class="kpi-val" style="color:var(--orange)">{avg('alignment_score')}</div>
+    </div>
 </div>
 
 <table>
